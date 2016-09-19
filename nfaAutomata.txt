@@ -1,0 +1,17 @@
+Acceptance States: 
+	 state: 4282071	
+
+Initial State: 
+ 	state: 4282070
+ 
+	4282070->4282071	[Label = "epsilon "]
+	4282070->4282068	[Label = "epsilon "]
+	4282068->4282066	[Label = "epsilon "]
+	4282068->4282064	[Label = "epsilon "]
+	4282066->4282067	[Label = "b "]
+	4282067->4282069	[Label = "epsilon "]
+	4282064->4282065	[Label = "a "]
+	4282065->4282069	[Label = "epsilon "]
+	4282069->4282071	[Label = "epsilon "]
+	4282069->4282068	[Label = "epsilon "]
+

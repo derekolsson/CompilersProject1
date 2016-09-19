@@ -1,0 +1,3 @@
+/home/derek/school/compilers/project1/compilers1/CMakeFiles/edit_cache.dir
+/home/derek/school/compilers/project1/compilers1/CMakeFiles/rebuild_cache.dir
+/home/derek/school/compilers/project1/compilers1/CMakeFiles/project1.dir

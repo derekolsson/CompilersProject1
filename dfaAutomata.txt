@@ -1,0 +1,12 @@
+Acceptance States: 
+	 state: 0	
+	 state: 1	
+	 state: 2	
+
+	0->1	[Label = "a "]
+	0->2	[Label = "b "]
+	1->1	[Label = "a "]
+	1->2	[Label = "b "]
+	2->1	[Label = "a "]
+	2->2	[Label = "b "]
+
